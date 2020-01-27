@@ -2,12 +2,12 @@
 
 one:
   name: MyString
-  profilePhoto: MyString
+  pic: MyString
   email: MyString
-  password: MyString
+  password_digest: MyString
 
 two:
   name: MyString
-  profilePhoto: MyString
+  pic: MyString
   email: MyString
-  password: MyString
+  password_digest: MyString
